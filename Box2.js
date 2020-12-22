@@ -1,4 +1,4 @@
-class box2{
+class b2{
      constructor(x, y, width, height) {
         var options = {
             isStatic: false,

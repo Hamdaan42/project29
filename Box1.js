@@ -1,4 +1,4 @@
-class Box1{
+class b1{
 constructor(x, y, width, height) {
         var options = {
 
